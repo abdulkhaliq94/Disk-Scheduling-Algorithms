@@ -19,7 +19,7 @@ The values that are closer to the head position should be serviced first in orde
 ## References
 * [First Come First Serve](https://www.geeksforgeeks.org/fcfs-disk-scheduling-algorithms/)
 * [SCAN (Elevator)](https://www.geeksforgeeks.org/scan-elevator-disk-scheduling-algorithms/)
-* [Shortest Seek Time First](https://www.javatpoint.com/os-sstf-scheduling-algorithm/)
+* [Shortest Seek Time First](https://www.javatpoint.com/os-sstf-scheduling-algorithm)
 
 ## Tools
 * [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
