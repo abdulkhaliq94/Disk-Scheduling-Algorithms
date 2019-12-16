@@ -4,14 +4,25 @@
 ### FCFS - First Come First Serve Algorithm
 The algorithm works using the same logic of First In First Out (FIFO) in the queue algorithms in data structure tools.
 
+![FCFS Algorithm](screenshots/FCFS.PNG)
+
 ### SCAN - Elevator Algorithm
 The head starts from the current cylinder being serviced in the direction it was going until the end and then it is reversed from 0 to the end of the values of cylinders to be serviced.
+
+![SCAN Algorithm](screenshots/SCAN.PNG)
 
 ### SSTF - Shortest Seek Time First Algorithm
 The values that are closer to the head position should be serviced first in order to minimize the seek operations.
 
+![SSTF](screenshots/SSTF.PNG)
+
+## References
+* [First Come First Serve](https://www.geeksforgeeks.org/fcfs-disk-scheduling-algorithms/)
+* [SCAN (Elevator)](https://www.geeksforgeeks.org/scan-elevator-disk-scheduling-algorithms/)
+* [Shortest Seek Time First](https://www.javatpoint.com/os-sstf-scheduling-algorithm/)
+
 ## Tools
-* [Java](oracle.com/technetwork/java/javase/downloads/index.html)
+* [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
   
   Version used on this project
   ```
@@ -47,3 +58,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+## Acknowledgments
+* Screenshots from: [GeeksforGeeks](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)
